@@ -41,11 +41,15 @@ This is an assignment given by Gemers Tag
 ## APK File
 
 You can find the APK file in the `build/app/outputs/flutter-apk/` directory after building the app.
+## APK Download
 
+You can download the APK file from the following link:
+
+[Download APK](https://drive.google.com/file/d/1Xu_LkGtAkGgdr08CNh-9yvtOGD2859kJ/view?usp=sharing)
 ## Additional Notes
 
 - Include any additional information that might be helpful for users, such as troubleshooting tips or links to related documentation.
 
 ## Contact
 
-For questions or feedback, please reach out to [Your Name](mailto:your-email@example.com).
+For questions or feedback, please reach out to [sanjiv21101@iiitnr.edu.in](mailto:your-email@example.com).
